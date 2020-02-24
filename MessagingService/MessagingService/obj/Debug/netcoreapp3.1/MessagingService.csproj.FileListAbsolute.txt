@@ -1,0 +1,11 @@
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.exe
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.deps.json
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.runtimeconfig.json
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.runtimeconfig.dev.json
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.dll
+C:\Presentation\MessagingService\MessagingService\bin\Debug\netcoreapp3.1\MessagingService.pdb
+C:\Presentation\MessagingService\MessagingService\obj\Debug\netcoreapp3.1\MessagingService.csprojAssemblyReference.cache
+C:\Presentation\MessagingService\MessagingService\obj\Debug\netcoreapp3.1\MessagingService.AssemblyInfoInputs.cache
+C:\Presentation\MessagingService\MessagingService\obj\Debug\netcoreapp3.1\MessagingService.AssemblyInfo.cs
+C:\Presentation\MessagingService\MessagingService\obj\Debug\netcoreapp3.1\MessagingService.dll
+C:\Presentation\MessagingService\MessagingService\obj\Debug\netcoreapp3.1\MessagingService.pdb
